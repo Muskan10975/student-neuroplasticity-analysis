@@ -52,7 +52,12 @@ Multiple linear regression indicates that lifestyle practices significantly pred
 ---
 
 ## 👥 Authors & Contributions
-* **Muskan Irfan (Main Author):** Conceived and designed the entire study framework, hypotheses, literature review, survey methodology, and authored the final comprehensive analysis report.
-* **Muhammad Yasir Qurashi:** Executed the data analysis workflow, scale coding, reliability checks, and multiple linear regression models.
-* **Muhammad Ahsan Islam:** Contributed to the literature review, research question design, survey formulation, and data collection.
-* **Mehak Irfan:** Contributed to the conceptual framework, research question design, survey methodology, and data collection.
+
+* **Muskan Irfan (Main Author):** Lead Researcher who conceptualized, designed, and led the entire research study lifecycle. Formulated the hypotheses, structured the research questions, spearheaded the questionnaire design, directed the data analysis workflow (descriptive statistics, scale construction, and reliability checks), and authored the final comprehensive report.
+* **Muhammad Yasir Qurashi:** Data Analyst who collaborated closely with the lead author to execute the inferential statistics phase, constructing the bivariate correlation matrices and building the multiple linear regression models.
+* **Mehak Irfan:** Co-researcher who assisted in the comprehensive literature review, contributed directly to the structural layout of the survey, and actively managed the participant data collection phase.
+* **Muhammad Ahsan Islam:** Co-researcher who contributed to the collaborative survey questionnaire design and assisted in distributing the survey for targeted data collection.
+* **Hamza Mumtaz:** Co-researcher who supported the initial framework design of the survey instrument and helped coordinate data collection efforts.
+* **Tooba Noor:** Co-researcher who assisted in drafting the survey questionnaire items and participated in the data collection process.
+* **Asma Abbas:** Co-researcher who contributed to the survey development phase and assisted the team in gathering participant responses.
+* **Falak Sajjad (Supervisor):** Research Supervisor who provided vital academic guidance, methodological oversight, and structural direction to the student research team throughout the study's design and analysis stages.
